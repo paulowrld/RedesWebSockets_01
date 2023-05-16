@@ -1,1 +1,15 @@
-# RedesWebSockets_01
+# Redes Web Sockets 01
+
+Essa é a resposta da questão um.
+
+Para executar o codigo direto no VSCode: (tanto no server-side quanto no client-side)
+
+> abrir o terminal e digitar "dotnet run"
+
+Para compilar o codigo no VSCode: (tanto no server-side quanto no client-side)
+
+> abrir o terminal e digitar "dotnet publish --configuration Release"
+
+Para testar o codigo já compilado previamente por mim: (tanto no server-side quanto no client-side)
+
+> dentro da pasta do projeto /bin/Release/net7.0/publish/Client-side.exe e /bin/Release/net7.0/publish/Server-side.exe
